@@ -1,0 +1,16 @@
+前端
+vuejs
+ vue插件
+ axios
+后端
+express
+jwt
+passport
+数据库
+mongodb
+服务端：
+Linux
+web服务
+  nginx
+  做反向代理
+docker
