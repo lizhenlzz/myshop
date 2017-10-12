@@ -3,7 +3,7 @@
     <div class="site-header" style="clear:both;">
       <div class="container">
         <div class="header-logo">
-          <a href="index.php" title=""><img src="/static/img/vn-logo.png" /></a>
+          <router-link title="" to="/"><img src="/static/img/pop-logo.png" /></router-link>
         </div>
         <!-- <div class="container-user"> -->
         <div class="topbar-cart" id="ECS_CARTINFO">

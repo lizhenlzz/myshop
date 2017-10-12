@@ -48,11 +48,11 @@
         <div class="cart-item">
           <div class="cart-item-head">
             <ul>
-              <li>Items</li>
-              <li>Price</li>
-              <li>Quantity</li>
-              <li>Subtotal</li>
-              <li>Edit</li>
+              <li>商品信息</li>
+              <li>价   格</li>
+              <li>数   量</li>
+              <li>小   计</li>
+              <li>编   辑</li>
             </ul>
           </div>
           <ul class="cart-item-list">

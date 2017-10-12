@@ -38,7 +38,7 @@
 
 
           <dl class="col-links">
-            <dt>vnshop</dt>
+            <dt>myshop</dt>
             <dd>
               <a href="article.php?id=12" target="_blank" title="预约亲临到店服务" rel="nofollow">预约亲临到店服务</a>
             </dd>
@@ -46,29 +46,29 @@
               <a href="article.php?id=13" target="_blank" title="服务网点" rel="nofollow">服务网点</a>
             </dd>
             <dd>
-              <a href="article.php?id=14" target="_blank" title="vnshop" rel="nofollow">vnshop</a>
+              <a href="article.php?id=14" target="_blank" title="vnshop" rel="nofollow">myshop</a>
             </dd>
 
           </dl>
 
 
           <dl class="col-links">
-            <dt>vnshop</dt>
+            <dt>myshop</dt>
             <dd>
-              <a href="article.php?id=24" target="_blank" title="vnshop" rel="nofollow">vnshop</a>
+              <a href="article.php?id=24" target="_blank" title="vnshop" rel="nofollow">myshop</a>
             </dd>
             <dd>
-              <a href="article.php?id=25" target="_blank" title="vnshop" rel="nofollow">vnshop</a>
+              <a href="article.php?id=25" target="_blank" title="vnshop" rel="nofollow">myshop</a>
             </dd>
             <dd>
-              <a href="article.php?id=26" target="_blank" title="vnshop" rel="nofollow">vnshop</a>
+              <a href="article.php?id=26" target="_blank" title="vnshop" rel="nofollow">myshop</a>
             </dd>
 
           </dl>
 
 
           <dl class="col-links">
-            <dt>vnshop</dt>
+            <dt>myshop</dt>
             <dd>
               <a href="article.php?id=15" target="_blank" title="官方微信" rel="nofollow">官方微信</a>
             </dd>
@@ -100,7 +100,7 @@
         <div class="logo ir">小米官网</div>
         <div class="info-text">
           <p>
-            ©<a href='#'>mi.shudong.wang</a> 京ICP证110507号 京ICP备10046444号 京公网安备1101080212535号 <a href='#'>京网文[2014]0059-0009号</a>
+            ©<a href='#'>myshop.popsweet.cn</a> 京ICP证110507号 京ICP备10046444号 京公网安备1101080212535号 <a href='#'>京网文[2014]0059-0009号</a>
           </p>
         </div>
 

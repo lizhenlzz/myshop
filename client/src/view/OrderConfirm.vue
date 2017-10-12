@@ -34,16 +34,16 @@
           <!-- process step -->
           <div class="check-step">
             <ul>
-              <li class="cur"><span>Confirm</span> address</li>
-              <li class="cur"><span>View your</span> order</li>
-              <li><span>Make</span> payment</li>
-              <li><span>Order</span> confirmation</li>
+              <li class="cur"><span>确认地址</span></li>
+              <li class="cur"><span>查看订单</span></li>
+              <li><span>付款</span> </li>
+              <li><span>确认订单</span></li>
             </ul>
           </div>
 
           <!-- order list -->
           <div class="page-title-normal checkout-title">
-            <h2><span>Order content</span></h2>
+            <h2><span>订单详情</span></h2>
           </div>
           <div class="item-list-wrap confirm-item-list-wrap">
             <div class="cart-item order-item">

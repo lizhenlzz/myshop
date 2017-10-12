@@ -4,25 +4,25 @@
   <nav-bread><span>购买完毕</span></nav-bread>
   <div class="container">
     <div class="page-title-normal">
-      <h2 class="page-title-h2"><span>check out</span></h2>
+      <h2 class="page-title-h2"><span>查看</span></h2>
     </div>
     <!-- 进度条 -->
     <div class="check-step">
       <ul>
-        <li class="cur"><span>Confirm</span> address</li>
-        <li class="cur"><span>View your</span> order</li>
-        <li class="cur"><span>Make</span> payment</li>
-        <li class="cur"><span>Order</span> confirmation</li>
+        <li class="cur"><span>确认地址</span></li>
+        <li class="cur"><span>查看订单</span></li>
+        <li class="cur"><span>付款</span></li>
+        <li class="cur"><span>确认订单</span></li>
       </ul>
     </div>
 
     <div class="order-create">
       <div class="order-create-pic"><img src="/static/img/ok-2.png" alt=""></div>
       <div class="order-create-main">
-        <h3>Congratulations! <br>Your order is under processing!</h3>
+        <h3>恭喜! <br>你的订单正在处理中!</h3>
         <p>
-          <span>Order ID：{{orderId}}</span>
-          <span>Order total：{{orderTotal}}</span>
+          <span>订单号：{{orderId}}</span>
+          <span>合计订单：{{orderTotal}}</span>
         </p>
         <div class="order-create-btn-wrap">
           <div class="btn-l-wrap">

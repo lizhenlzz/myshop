@@ -1259,13 +1259,16 @@ a:hover {
 .site-header .header-logo {
     float: left;
     width: 62px;
-    margin-top: 22px;
+    margin-top: 20px;
 }
 
 .site-header .header-logo a {
     display: block;
-}
 
+}
+.site-header .header-logo a img{
+  height: 60px;
+}
 
 /*ä¸­éƒ¨å¯¼èˆª*/
 
